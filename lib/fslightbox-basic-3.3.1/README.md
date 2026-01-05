@@ -53,10 +53,10 @@ Available at: https://fslightbox.com/javascript/documentation
 ## Browser Compatibility
 
 | Browser | Works? |
-| --- | --- |
-| Chrome | Yes |
+| --------|--------|
+| Chrome  | Yes |
 | Firefox | Yes |
-| Opera | Yes |
-| Safari | Yes |
-| Edge | Yes |
-| IE 11 | Yes |
+| Opera   | Yes |
+| Safari  | Yes |
+| Edge    | Yes |
+| IE 11   | Yes |
