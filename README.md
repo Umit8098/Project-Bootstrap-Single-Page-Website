@@ -25,6 +25,7 @@ A responsive single-page website built with Bootstrap 5, featuring modern UI com
   </h3>
 </div>
 
+![single page website gif](./img/spw.gif)
 
 <p align="center">
   <img src="./src/img/firecontact-app.gif" alt="Firecontact App" width="800"/>
