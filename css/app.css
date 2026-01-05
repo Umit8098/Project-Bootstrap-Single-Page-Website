@@ -28,6 +28,21 @@
     color: var(--red);
   }
 
+  .navbar-brand {
+    width: 10rem;
+    text-transform: none;
+    color: white
+  }
+
+  .navbar-brand img {
+    width: 3rem;
+    /* background-color: #dc3545; */
+  }
+
+.brand-text {
+  color: #ff5733; /* istediğin renk */
+}
+
   /*! --------- 2- CAROUSEL ------------- */
   .carousel-item {
     /* border: 3px solid red; */
